@@ -21,7 +21,7 @@ This repository contains a custom-designed robot baseplate intended for small mo
 - No supports required
 
 ## Preview
-![Baseplate Preview](baseplate.png)
+![Baseplate Preview](<img width="892" height="479" alt="{AC30E5EE-6FBE-4094-8C02-F74AC7432FFA}" src="https://github.com/user-attachments/assets/8881dd6c-47cf-4b34-902a-50c20c706edc" />)
 
 ## 📄 License
 This project is open-source. You may use, modify, and distribute it for educational and personal projects.
